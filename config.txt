@@ -1,0 +1,4 @@
+*name, freq, offset, zhenfu, value
+a,5,20,5,0011
+b,5,20,5,0101
+c,5,20,5,0000

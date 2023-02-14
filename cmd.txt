@@ -1,0 +1,1 @@
+josim-cli -o ./josim_adder_res.csv   ./josim_adder.inp -V 1
